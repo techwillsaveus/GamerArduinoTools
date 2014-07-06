@@ -38,7 +38,7 @@ The X icon (or 'x' key) and it clear EVERYTHING (all frames) -> similar to creat
 
 [Animating]:
 * Use the + icon (or '=' key) to insert a blank/empty frame
-* Use the Duplicate Current Frame button (or '+' key) to append a copy of the current frame at the end of the timeline. (note that the duplicated frame will always be appended at the end of the timeline, regardless of the current frame, so give this a try to get used to it)
+* Use the Duplicate Current Frame button (or '+' key) to append a copy of the current frame
 * Use the - icon (or '-' key) to remove the current frame
 * Use Alt(on PC)/Option(on Mac)+C to copy a frame
 * Use Alt(on PC)/Option(on Mac)+V to paste a frame
