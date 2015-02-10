@@ -7,7 +7,7 @@ INSTALLATION
 ============
 
 1. Download [tools.zip from the releases](https://github.com/twsu/GamerArduinoTools/releases/download/v0.1/tools.zip)
-2. Unzip tool.zip in Documents -> Arduino (this should result in a new tools folder containing Painter and Animator folders)
+2. Unzip tools.zip in Documents -> Arduino (this should result in a new tools folder containing Painter and Animator folders)
 3. Restart the Arduino IDE and two new awesome options should appear under Arduino > Tools.
 
 USAGE
